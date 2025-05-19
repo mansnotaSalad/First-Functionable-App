@@ -3,8 +3,8 @@
 }
 h4 {
   text-align: centre;
-  color: violet;
-  font-family: fantasy;
+  color: Orange;
+  font-family: blockbuster; 
   font-size: 20px;
 }
 h2 {
@@ -33,4 +33,7 @@ a{
 }
 #menu a:hover {
  color: black; 
+}
+#bio {
+  text-align: center;
 }
